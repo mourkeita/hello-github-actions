@@ -8,11 +8,11 @@ inputs:
     required: true
     default: "World"
     
- runs:
-   using: "docker"
-   image: "Dockerfile"
+runs:
+  using: "docker"
+  image: "Dockerfile"
    
- brandng:
-   icon: "mic"
-   color: "purple"
+brandng:
+  icon: "mic"
+  color: "purple"
    
