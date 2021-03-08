@@ -1,0 +1,2 @@
+name: My first GH workflow for Hello World file
+on: push
